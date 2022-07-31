@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-### `npx create-react-app app-name'
+### `npx create-react-app app-name`
 
 The React application is installed to your device.
 
