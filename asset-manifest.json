@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-countries-app/static/css/main.e33910c4.css",
+    "main.js": "/React-countries-app/static/js/main.46c25393.js",
+    "index.html": "/React-countries-app/index.html",
+    "main.e33910c4.css.map": "/React-countries-app/static/css/main.e33910c4.css.map",
+    "main.46c25393.js.map": "/React-countries-app/static/js/main.46c25393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e33910c4.css",
+    "static/js/main.46c25393.js"
+  ]
+}
