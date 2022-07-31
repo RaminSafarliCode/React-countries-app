@@ -1,6 +1,6 @@
 # Countries-app on React
 ## Project Description
-This application is the first React application that I developed to learn React basics. Undoubtedly, it make easier to understand basics of React deeply. 
+This application is the first React application that I developed to learn React basics. Undoubtedly, it makes easier to understand basics of React deeply. 
 
 ## Benefits of using React
 React is JavaScript libray (also known as Framework, because it is quite large library) developed by Facebook. It has plenty of reasons why we have to use this technology. From my point of view, the main benefit is:
@@ -13,6 +13,10 @@ One of the main benefits of using React JS is Components. Components in React JS
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+### `npx create-react-app app-name'
+
+The React application is installed to your device.
 
 In the project directory, you can run:
 
